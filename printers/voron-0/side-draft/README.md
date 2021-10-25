@@ -9,9 +9,9 @@ Ideally you would need two of these each side of the bed to get the best results
 
 ![Voron 0.1 Side Draft](side_draft.png)
 
+---
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
----
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
 
