@@ -9,4 +9,4 @@ Ideally you would need two of these each side of the bed to get the best results
 
 ![Voron 0.1 Side Draft](side_draft.png)
 
-![License](https://github.com/pacmac/3d/blob/master/LICENSE.md)
+[a link](https://github.com/pacmac/3d/blob/master/LICENSE.md)
