@@ -24,6 +24,8 @@ It worked great for me, I was able to get pretty much zero error at the 3 points
 ### DTI Mount - Nylon Insert
 ![DTI Mount Nylon Insert](m3_grub-nylon-insert.jpg)
 
+[Also Here](https://www.thingiverse.com/thing:4949659)
+
 ---
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
