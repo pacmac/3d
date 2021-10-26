@@ -1,5 +1,4 @@
-Dial Indicator Mount for the Voron 0.1
-==
+# Dial Indicator Mount for the Voron 0.1
 
 The idea here was to get as close to the nozzle as possible, in this case it is roughly 14mm Y offset from the nozzle.
 
@@ -13,12 +12,16 @@ I then created 1/2 dozen macros to move to the bed-screws position using the Y 1
 
 It worked great for me, I was able to get pretty much zero error at the 3 points, however the magnetic bed is not flat and it would also be possible to do a manual bed mesh using this setup, but I have not got around to that yet.
 
+### DTI Mount - Bottom View
 ![DTI Mount Bottom View](voron0_dti-mount-bottom.jpg)
 
+### DTI Mount - Front
 ![DTI Mount Front](voron0_dti-mount-front.jpg)
 
+### DTI Mount - Mounted
 ![DTI Mount Mounted](voron0_dti-mount-mounted.jpg)
 
+### DTI Mount - Nylon Insert
 ![DTI Mount Nylon Insert](m3_grub-nylon-insert.jpg)
 
 ---
