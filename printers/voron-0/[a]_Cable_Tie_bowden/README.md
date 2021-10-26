@@ -10,10 +10,10 @@ Current version has the following changes:
 3) makes the 4mm bowden tube hole enclosed.
 
 
-## Voron 0.1 Cable Tie - Rendered
+### Voron 0.1 Cable Tie - Rendered
 ![Voron 0.1 Cable Tie - Rendered]([a]_Cable_Tie_bowden.png)
 
-## Voron 0.1 Cable Tie - Assembled
+### Voron 0.1 Cable Tie - Assembled
 ![Voron 0.1 Cable Tie - Assembled](IMG_3495.jpg)
 
 ---
