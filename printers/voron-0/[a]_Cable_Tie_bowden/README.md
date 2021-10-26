@@ -1,5 +1,5 @@
-Voron 0.1 Cable & Bowden Strain Relief
-==
+# Voron 0.1 Cable & Bowden Strain Relief
+
 
 This adds a 4mm diameter hole to accept the bowden tube and provide strain relief for both the cables and the PTFE tube going to the print head.
 
@@ -9,7 +9,11 @@ Current version has the following changes:
 2) pushes out the cable-side face by 2mm
 3) makes the 4mm bowden tube hole enclosed.
 
+
+## Voron 0.1 Cable Tie - Rendered
 ![Voron 0.1 Cable Tie - Rendered]([a]_Cable_Tie_bowden.png)
+
+## Voron 0.1 Cable Tie - Assembled
 ![Voron 0.1 Cable Tie - Assembled](IMG_3495.jpg)
 
 ---
