@@ -10,7 +10,6 @@ Should also work on the original Voron 0.
 
 Added version 2 which is 0.5mm longer and makes it much easier to locate the magnetic bed.
 
-
 ### Installed
 ![Magnet Bed Guide Installed](bed-guide-v2.jpg)
 
@@ -26,7 +25,6 @@ Added version 2 which is 0.5mm longer and makes it much easier to locate the mag
 ### Bed Alignment Right V2 - Rendered
 ![Voron 0.1 Bed Alignment Right V2 - Rendered](bed_location_right_v2.png)
 
-
 ---
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
@@ -37,4 +35,5 @@ This work is licensed under a
 
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
-[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg![](bed_location_left.png)
+
