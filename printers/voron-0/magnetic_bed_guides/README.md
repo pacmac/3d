@@ -12,19 +12,19 @@ Added version 2 which is 0.5mm longer and makes it much easier to locate the mag
 
 
 ## Installed
-![]()bed-guide-v2.jpg
+![Magnet Bed Guide Installed](bed-guide-v2.jpg)
 
 ## Bed Alignment Left V1 - Rendered
-![Bed Alignment Left V1 - Rendered](bed_location_left.png)
+![Voron 0.1 Bed Alignment Left V1 - Rendered](bed_location_left.png)
 
 ## Bed Alignment Left V2 - Rendered
-![Bed Alignment Left - Rendered](bed_location_left_v2.png)
+![Voron 0.1 Bed Alignment Left - Rendered](bed_location_left_v2.png)
 
 ## Bed Alignment Right V1 - Rendered
-![Bed Alignment Right V1 - Rendered](bed_location_right.png)
+![Voron 0.1 Bed Alignment Right V1 - Rendered](bed_location_right.png)
 
 ## Bed Alignment Right V2 - Rendered
-![Bed Alignment Right V2 - Rendered](bed_location_right_v2.png)
+![Voron 0.1 Bed Alignment Right V2 - Rendered](bed_location_right_v2.png)
 
 
 ---
