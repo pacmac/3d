@@ -12,7 +12,7 @@ The aircon drain tubes are generally 19mm inside diameter.
 
 
 ## Aircon Drain Vacuum Hose Adapter Rendering
-![alt text](Aircon Drain Adapter_render.png)
+![alt text](Aircon_Drain_Adapter_render.png)
 
 ## Karcher W1 Wet/Dry Vacuum
 ![alt text](karcher_wd1_box.png)
@@ -21,7 +21,7 @@ The aircon drain tubes are generally 19mm inside diameter.
 ![alt text](karcher_wd1_hose.png)
 
 ## Aircon Drain Adapter Fitted
-![alt text](Aircon Drain Adapter_hose.png)
+![alt text](Aircon_Drain Adapter_hose.png)
 
 ---
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
