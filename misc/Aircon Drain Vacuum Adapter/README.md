@@ -20,8 +20,8 @@ The aircon drain tubes are generally 19mm inside diameter.
 ## Karcher W1 Hose
 ![alt text](karcher_wd1_hose.png)
 
-## Aircon Drain Adapter Fitted
-![alt text](Aircon_Drain Adapter_hose.png)
+## Aircon Drain Adapter Fitted to Hose
+![alt text](Aircon_Drain_Adapter_hose.png)
 
 ---
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
