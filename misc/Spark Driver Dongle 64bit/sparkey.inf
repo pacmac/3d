@@ -1,0 +1,62 @@
+; Installation inf for the Intel 82930 USB Bulk IO Test Board
+;
+; (c) Copyright 1999 Microsoft
+;
+
+[Version]
+Signature="$CHICAGO$"
+Class=USB
+ClassGUID={36FC9E60-C465-11CF-8056-444553540000}
+provider=%BGT%
+DriverVer=08/05/2007,5.00.2064
+CatalogFile=sparkey.cat
+
+[SourceDisksNames]
+1=%Disk_Description%,,,
+
+[SourceDisksFiles]
+sparkey.sys = 1
+
+[Manufacturer]
+%MfgName%=Microsoft, NTia64, NTamd64
+
+[Microsoft.NTia64]
+%USB\VID_045E&PID_930A.DeviceDesc%=BULKUSB.Dev, USB\VID_01B4&PID_0F1F
+
+[Microsoft.NTamd64]
+%USB\VID_045E&PID_930A.DeviceDesc%=BULKUSB.Dev, USB\VID_01B4&PID_0F1F
+
+[DestinationDirs]
+BULKUSB.Files.Ext = 10,System32\Drivers
+
+[BULKUSB.Dev.NT]
+CopyFiles=BULKUSB.Files.Ext
+
+[BULKUSB.Dev.NT.Services]
+Addservice = SPARKEY, 0x00000002, BULKUSB.AddService
+
+[BULKUSB.AddService]
+DisplayName    = %BULKUSB.SvcDesc%
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 3                  ; SERVICE_DEMAND_START
+ErrorControl   = 1                  ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %10%\System32\Drivers\sparkey.sys
+AddReg         = BULKUSB.AddReg
+LoadOrderGroup = Base
+
+[BULKUSB.AddReg]
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,sparkey.sys
+
+
+[BULKUSB.Files.Ext]
+sparkey.sys
+
+;---------------------------------------------------------------;
+
+[Strings]
+BGT="Beijing GDA Technologies Co., Ltd"
+MfgName="Intel"
+Disk_Description=" Installation Disk"
+USB\VID_045E&PID_930A.DeviceDesc="spark dongle"
+BULKUSB.SvcDesc="spark dongle"
