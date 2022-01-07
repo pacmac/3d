@@ -7,11 +7,11 @@ Very simple design with 2 versions:
 ## Short Version
 This is a 6mm wide cover which exposes either side of the button so that it can still be pressed.
 
-![Apple Siri Remote Search Button Cover - Short](search_cover_short.png)
+![Apple Siri Remote Search Button Cover - Short](search_cover_short.jpg)
 
 ## Long Version
 This completely covers the button and has an access hole through which you can still press the button.
-![Apple Siri Remote Search Button Cover - Long](search_cover_long.png)
+![Apple Siri Remote Search Button Cover - Long](search_cover_long.jpg)
 
 ---
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
